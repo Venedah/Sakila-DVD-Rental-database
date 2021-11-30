@@ -16,7 +16,5 @@ Note: One quirk you may notice about the database is that the rental dates are a
     3. Supporting visualization created using the final data of your SQL query that answers your question of interest.
 
 
-![dvd-rental-erd-2](/C/Users/Valentine Enedah/Documents/POSTGRESQL/dvd-rental-erd-2.png "dvd rental erd")
-
 ## LINK TO PROJECT
 >[GO TO GITHUB](https://github.com/Venedah/Sakila-DVD-Rental-database)
